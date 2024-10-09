@@ -61,5 +61,4 @@ typings/
 # next.js build output
 .next
 
-# development config.js files
-/src/config.js
+# development config.js f
